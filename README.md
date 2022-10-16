@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Scheme interpreter
+- 🔭 I’m currently working on software component analysis (SCA).
 
 
 ### Some SUSTech course materials
