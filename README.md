@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on binary software component analysis (BSCA).
+- 🔭 I’m currently working on binary diffing.
 
 
 ### Some SUSTech course materials
