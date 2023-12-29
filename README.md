@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning compilers and human-computer interaction at University of Notre Dame.
-- 📫 How to reach me: jan2@nd.edu
+- 🌱 I’m currently learning compilers and human-computer interaction at the University of Notre Dame.
+- 📫 How to reach me: anjw2020@mail.sustech.edu.cn / Wechat: wanteatfruit
 ### Some SUSTech course materials
 
 * [CS102A计算机程序设计基础](https://github.com/wanteatfruit/2021Spring-CS102-Project) (现更名CS109/CS110)
