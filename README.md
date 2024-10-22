@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working as a PL and Dev tools intern for [MoonBit](https://www.moonbitlang.com/).
+- 🌱 I’m a first-year PhD student at NUS.
 - 📫 How to reach me: anjw2020@mail.sustech.edu.cn / Wechat: wanteatfruit
 ### Some SUSTech course materials
 
