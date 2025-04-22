@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m a first-year PhD student at NUS.
 - 📫 How to reach me: junwenan@u.nus.edu / Wechat: wanteatfruit
-- I've also put some SUSTech course materials in my repos.
 
 <!--
 **wanteatfruit/wanteatfruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
