@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m a first-year PhD student at NUS.
+- 🌱 I’m a second-year PhD student at NUS.
 - 📫 How to reach me: junwenan@u.nus.edu / Wechat: wanteatfruit
 
 <!--
